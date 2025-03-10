@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Мои проекты
+###  Мои проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [WebTable](https://github.com/AqV-rs/) | Веб-оболочка баз данных | Go, PostgreSQL |
@@ -34,14 +34,14 @@
 
 ---
 
-### 📊 GitHub статистика  
+###  GitHub статистика  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AqV-rs&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### 📫 Как со мной связаться  
+###  Как со мной связаться  
 - Telegram: [@nhhwwl](https://t.me/nhhwwl)  
 - Mail: [liskovnikita5@yandex.ru]
 
