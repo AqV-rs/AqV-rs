@@ -29,7 +29,6 @@
 ###  Мои проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [WebTable](https://github.com/AqV-rs/) | Веб-оболочка баз данных | Go, PostgreSQL |
 | [smtp_exporter](https://github.com/AqV-rs/smtp_exporter) | Универсальный почтарь | Go |
 
 ---
