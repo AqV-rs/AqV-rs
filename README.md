@@ -20,7 +20,7 @@
 - **Сетевые технологии:** Routing / Switching 
 - **CI/CD:** Gitlab CI
 - **Логирование и мониторинг:** Graylog / Wazuh
-- **Управление конфигурациями:** Ansible
+- **Управление конфигурациями:** Ansible / Terraform 
 - **Управление секретами:** Vault
 - **Операционные системы:** Linux (Ubuntu, CentOS, Alma)     
 
